@@ -10,7 +10,8 @@
  </head>
  <body>
      <?php
-        echo "Hello Pracinburi";
+        echo "<h1>Hello</h1>";
+        echo "<h2>Pracinburi</h2>";
      ?>
  </body>
  </html>
