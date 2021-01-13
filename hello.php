@@ -9,7 +9,8 @@
      <script src='main.js'></script>
  </head>
  <body>
-     <h1>Hello</h1>
-     <h2>Prachinburi</h2>
+     <?php
+        echo "Hello Pracinburi";
+     ?>
  </body>
  </html>
